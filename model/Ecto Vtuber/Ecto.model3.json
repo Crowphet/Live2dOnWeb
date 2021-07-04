@@ -1,0 +1,23 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "Ecto.moc3",
+		"Textures": [
+			"Ecto.8192/texture_00.png"
+		],
+		"Physics": "Ecto.physics3.json",
+		"DisplayInfo": "Ecto.cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		}
+	]
+}

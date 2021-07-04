@@ -1,0 +1,23 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "ractooni.moc3",
+		"Textures": [
+			"ractooni.4096/texture_00.png"
+		],
+		"Physics": "ractooni.physics3.json",
+		"DisplayInfo": "ractooni.cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		}
+	]
+}

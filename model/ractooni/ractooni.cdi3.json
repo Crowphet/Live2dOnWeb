@@ -1,0 +1,505 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamAngleX",
+			"GroupId": "ParamGroup",
+			"Name": "Angle X"
+		},
+		{
+			"Id": "ParamAngleY",
+			"GroupId": "ParamGroup",
+			"Name": "Angle Y"
+		},
+		{
+			"Id": "ParamAngleZ",
+			"GroupId": "ParamGroup",
+			"Name": "Angle Z"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "ParamGroup2",
+			"Name": "EyeL Open"
+		},
+		{
+			"Id": "ParamEyeLSmile",
+			"GroupId": "ParamGroup2",
+			"Name": "EyeL Smile"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"GroupId": "ParamGroup2",
+			"Name": "EyeR Open"
+		},
+		{
+			"Id": "ParamEyeRSmile",
+			"GroupId": "ParamGroup2",
+			"Name": "EyeR Smile"
+		},
+		{
+			"Id": "ParamEyeBallX",
+			"GroupId": "ParamGroup2",
+			"Name": "Eyeball X"
+		},
+		{
+			"Id": "ParamEyeBallY",
+			"GroupId": "ParamGroup2",
+			"Name": "Eyeball Y"
+		},
+		{
+			"Id": "ParamBrowLY",
+			"GroupId": "ParamGroup3",
+			"Name": "BrowL Y"
+		},
+		{
+			"Id": "ParamBrowRY",
+			"GroupId": "ParamGroup3",
+			"Name": "BrowR Y"
+		},
+		{
+			"Id": "ParamBrowLX",
+			"GroupId": "ParamGroup3",
+			"Name": "BrowL X"
+		},
+		{
+			"Id": "ParamBrowRX",
+			"GroupId": "ParamGroup3",
+			"Name": "BrowR X"
+		},
+		{
+			"Id": "ParamBrowLAngle",
+			"GroupId": "ParamGroup3",
+			"Name": "BrowL Angle"
+		},
+		{
+			"Id": "ParamBrowRAngle",
+			"GroupId": "ParamGroup3",
+			"Name": "BrowR Angle"
+		},
+		{
+			"Id": "ParamBrowLForm",
+			"GroupId": "ParamGroup3",
+			"Name": "BrowL Form"
+		},
+		{
+			"Id": "ParamBrowRForm",
+			"GroupId": "ParamGroup3",
+			"Name": "BrowR Form"
+		},
+		{
+			"Id": "ParamMouthForm",
+			"GroupId": "ParamGroup4",
+			"Name": "Mouth Form"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "ParamGroup4",
+			"Name": "Mouth Open"
+		},
+		{
+			"Id": "ParamCheek",
+			"GroupId": "ParamGroup4",
+			"Name": "Cheek"
+		},
+		{
+			"Id": "ParamBodyAngleX",
+			"GroupId": "ParamGroup5",
+			"Name": "Body X"
+		},
+		{
+			"Id": "ParamBodyAngleY",
+			"GroupId": "ParamGroup5",
+			"Name": "Body Y"
+		},
+		{
+			"Id": "ParamBodyAngleZ",
+			"GroupId": "ParamGroup5",
+			"Name": "Body Z"
+		},
+		{
+			"Id": "ParamArmTopMove",
+			"GroupId": "ParamGroup6",
+			"Name": "Arm top Move"
+		},
+		{
+			"Id": "ParamArmMidMove",
+			"GroupId": "ParamGroup6",
+			"Name": "Arm Mid Move"
+		},
+		{
+			"Id": "ParamATLM",
+			"GroupId": "ParamGroup6",
+			"Name": "Arm Top Left Move"
+		},
+		{
+			"Id": "ParamAMML",
+			"GroupId": "ParamGroup6",
+			"Name": "Arm Mid Move Left"
+		},
+		{
+			"Id": "ParamTail",
+			"GroupId": "ParamGroup6",
+			"Name": "Tail Move"
+		},
+		{
+			"Id": "Paramq",
+			"GroupId": "ParamGroup6",
+			"Name": "Crying"
+		},
+		{
+			"Id": "ParamEyegoggl",
+			"GroupId": "ParamGroup6",
+			"Name": "Eye Goggly"
+		},
+		{
+			"Id": "ParamEarFluff",
+			"GroupId": "ParamGroup7",
+			"Name": "Ear Fluff"
+		},
+		{
+			"Id": "Param",
+			"GroupId": "ParamGroup7",
+			"Name": "Shoulder fliuff"
+		},
+		{
+			"Id": "Param2",
+			"GroupId": "ParamGroup7",
+			"Name": "facefluff"
+		},
+		{
+			"Id": "ParamFFY",
+			"GroupId": "ParamGroup7",
+			"Name": "Facefluff Y"
+		},
+		{
+			"Id": "ParamEarTwitch",
+			"GroupId": "ParamGroup8",
+			"Name": "Ear twitch"
+		},
+		{
+			"Id": "ParamStar",
+			"GroupId": "ParamGroup9",
+			"Name": "Star"
+		},
+		{
+			"Id": "ParamHideEyes",
+			"GroupId": "ParamGroup9",
+			"Name": "Hide eyes"
+		},
+		{
+			"Id": "ParamBigEye",
+			"GroupId": "ParamGroup9",
+			"Name": "Big eye"
+		},
+		{
+			"Id": "ParamHeart",
+			"GroupId": "ParamGroup9",
+			"Name": "Heart"
+		},
+		{
+			"Id": "ParamWorry",
+			"GroupId": "ParamGroup9",
+			"Name": "Worry"
+		},
+		{
+			"Id": "ParamGoogle",
+			"GroupId": "ParamGroup9",
+			"Name": "Google"
+		},
+		{
+			"Id": "ParamSmug",
+			"GroupId": "ParamGroup9",
+			"Name": "Smug"
+		},
+		{
+			"Id": "Paramhappy",
+			"GroupId": "ParamGroup9",
+			"Name": "happy"
+		},
+		{
+			"Id": "ParamAngry",
+			"GroupId": "ParamGroup9",
+			"Name": "Angry"
+		},
+		{
+			"Id": "ParamCry",
+			"GroupId": "ParamGroup9",
+			"Name": "Cry"
+		},
+		{
+			"Id": "ParamBlush",
+			"GroupId": "ParamGroup9",
+			"Name": "Blush"
+		},
+		{
+			"Id": "ParamSweat",
+			"GroupId": "ParamGroup9",
+			"Name": "Sweat"
+		},
+		{
+			"Id": "ParamQuestion",
+			"GroupId": "ParamGroup9",
+			"Name": "?"
+		},
+		{
+			"Id": "ParamChancla",
+			"GroupId": "ParamGroup9",
+			"Name": "Chancla"
+		},
+		{
+			"Id": "Paramhidech",
+			"GroupId": "ParamGroup9",
+			"Name": "Chancla hide"
+		},
+		{
+			"Id": "ParamFlea1",
+			"GroupId": "ParamGroup9",
+			"Name": "Flea1"
+		},
+		{
+			"Id": "ParamF1h",
+			"GroupId": "ParamGroup9",
+			"Name": "F1H"
+		},
+		{
+			"Id": "ParamFlea2",
+			"GroupId": "ParamGroup9",
+			"Name": "Flea2"
+		},
+		{
+			"Id": "ParamFh2",
+			"GroupId": "ParamGroup9",
+			"Name": "F2H"
+		},
+		{
+			"Id": "ParamFlea3",
+			"GroupId": "ParamGroup9",
+			"Name": "Flea3"
+		},
+		{
+			"Id": "ParamF3h",
+			"GroupId": "ParamGroup9",
+			"Name": "F3H"
+		},
+		{
+			"Id": "ParamFlea4",
+			"GroupId": "ParamGroup9",
+			"Name": "Flea4"
+		},
+		{
+			"Id": "ParamF4h",
+			"GroupId": "ParamGroup9",
+			"Name": "F4H"
+		},
+		{
+			"Id": "ParamBreath",
+			"GroupId": "",
+			"Name": "Breathing"
+		}
+	],
+	"ParameterGroups": [
+		{
+			"Id": "ParamGroup",
+			"GroupId": "",
+			"Name": "Head"
+		},
+		{
+			"Id": "ParamGroup2",
+			"GroupId": "",
+			"Name": "Eyes"
+		},
+		{
+			"Id": "ParamGroup3",
+			"GroupId": "",
+			"Name": "Brow"
+		},
+		{
+			"Id": "ParamGroup4",
+			"GroupId": "",
+			"Name": "Mouth"
+		},
+		{
+			"Id": "ParamGroup5",
+			"GroupId": "",
+			"Name": "Body"
+		},
+		{
+			"Id": "ParamGroup6",
+			"GroupId": "",
+			"Name": "Phy"
+		},
+		{
+			"Id": "ParamGroup7",
+			"GroupId": "",
+			"Name": "Fluff Phy"
+		},
+		{
+			"Id": "ParamGroup8",
+			"GroupId": "",
+			"Name": "Ear twitch"
+		},
+		{
+			"Id": "ParamGroup9",
+			"GroupId": "",
+			"Name": "Emotes"
+		}
+	],
+	"Parts": [
+		{
+			"Id": "Part17",
+			"Name": "Ractooni expressions only.psd"
+		},
+		{
+			"Id": "Part15",
+			"Name": "ractooni kill me.psd"
+		},
+		{
+			"Id": "Part14",
+			"Name": "head_neck.png"
+		},
+		{
+			"Id": "Part12",
+			"Name": "mouth_closed-color.png"
+		},
+		{
+			"Id": "Part11",
+			"Name": "a whole kilogram of iq.psd"
+		},
+		{
+			"Id": "Feetsies",
+			"Name": "Feetsies"
+		},
+		{
+			"Id": "Arms",
+			"Name": "Arms"
+		},
+		{
+			"Id": "Nose",
+			"Name": "Nose"
+		},
+		{
+			"Id": "bod",
+			"Name": "bod"
+		},
+		{
+			"Id": "Fluff",
+			"Name": "Fluff"
+		},
+		{
+			"Id": "Eyes",
+			"Name": "Eyes"
+		},
+		{
+			"Id": "Mouth",
+			"Name": "Mouth"
+		},
+		{
+			"Id": "Ears",
+			"Name": "Ears"
+		},
+		{
+			"Id": "tail",
+			"Name": "tail"
+		},
+		{
+			"Id": "expressions",
+			"Name": "expressions"
+		},
+		{
+			"Id": "Part9",
+			"Name": "L foot"
+		},
+		{
+			"Id": "Part10",
+			"Name": "R foot"
+		},
+		{
+			"Id": "Part",
+			"Name": "R arm"
+		},
+		{
+			"Id": "Part2",
+			"Name": "L arm"
+		},
+		{
+			"Id": "Hands",
+			"Name": "Hands"
+		},
+		{
+			"Id": "Part13",
+			"Name": "ractooni recolour.psd"
+		},
+		{
+			"Id": "Part3",
+			"Name": "L eye"
+		},
+		{
+			"Id": "Part4",
+			"Name": "R eye"
+		},
+		{
+			"Id": "Eyebrows",
+			"Name": "Eyebrows"
+		},
+		{
+			"Id": "Part7",
+			"Name": "EAr R"
+		},
+		{
+			"Id": "Part8",
+			"Name": "Ear L"
+		},
+		{
+			"Id": "sweat",
+			"Name": "sweat"
+		},
+		{
+			"Id": "Chancla",
+			"Name": "Chancla"
+		},
+		{
+			"Id": "Flea",
+			"Name": "Flea"
+		},
+		{
+			"Id": "Part16",
+			"Name": "?"
+		},
+		{
+			"Id": "Google",
+			"Name": "Google"
+		},
+		{
+			"Id": "Worry",
+			"Name": "Worry"
+		},
+		{
+			"Id": "Heart",
+			"Name": "Heart"
+		},
+		{
+			"Id": "star",
+			"Name": "star"
+		},
+		{
+			"Id": "Smug",
+			"Name": "Smug"
+		},
+		{
+			"Id": "Angry",
+			"Name": "Angry"
+		},
+		{
+			"Id": "Part5",
+			"Name": "L eyeb"
+		},
+		{
+			"Id": "Part6",
+			"Name": "R eyeb"
+		},
+		{
+			"Id": "Bonk",
+			"Name": "Bonk"
+		}
+	]
+}

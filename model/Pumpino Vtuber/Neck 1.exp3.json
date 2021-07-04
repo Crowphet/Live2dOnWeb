@@ -1,0 +1,10 @@
+{
+	"Type": "Live2D Expression",
+	"Parameters": [
+		{
+			"Id": "ParamLongNeck",
+			"Value": 0.2,
+			"Blend": "Add"
+		}
+	]
+}

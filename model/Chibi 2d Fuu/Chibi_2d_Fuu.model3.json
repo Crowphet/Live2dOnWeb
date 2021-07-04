@@ -1,0 +1,23 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "Chibi_2d_Fuu.moc3",
+		"Textures": [
+			"Chibi_2d_Fuu.4096/texture_00.png"
+		],
+		"Physics": "Chibi_2d_Fuu.physics3.json",
+		"DisplayInfo": "Chibi_2d_Fuu.cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		}
+	]
+}

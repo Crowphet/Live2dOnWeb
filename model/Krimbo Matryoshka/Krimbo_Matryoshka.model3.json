@@ -1,0 +1,23 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "Krimbo_Matryoshka.moc3",
+		"Textures": [
+			"Krimbo_Matryoshka.4096/texture_00.png"
+		],
+		"Physics": "Krimbo_Matryoshka.physics3.json",
+		"DisplayInfo": "Krimbo_Matryoshka.cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		}
+	]
+}

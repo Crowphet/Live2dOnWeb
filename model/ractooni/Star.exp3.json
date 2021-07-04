@@ -1,0 +1,15 @@
+{
+	"Type": "Live2D Expression",
+	"Parameters": [
+		{
+			"Id": "ParamHideEyes",
+			"Value": 1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamStar",
+			"Value": 1,
+			"Blend": "Add"
+		}
+	]
+}

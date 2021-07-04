@@ -1,0 +1,358 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamAngleX",
+			"GroupId": "ParamGroup",
+			"Name": "Angle X"
+		},
+		{
+			"Id": "ParamAngleY",
+			"GroupId": "ParamGroup",
+			"Name": "Angle Y"
+		},
+		{
+			"Id": "ParamAngleZ",
+			"GroupId": "ParamGroup",
+			"Name": "Angle Z"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "ParamGroup2",
+			"Name": "EyeL Open"
+		},
+		{
+			"Id": "ParamEyeLSmile",
+			"GroupId": "ParamGroup2",
+			"Name": "EyeL Smile"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"GroupId": "ParamGroup2",
+			"Name": "EyeR Open"
+		},
+		{
+			"Id": "ParamEyeRSmile",
+			"GroupId": "ParamGroup2",
+			"Name": "EyeR Smile"
+		},
+		{
+			"Id": "ParamEyeBallX",
+			"GroupId": "ParamGroup2",
+			"Name": "Eyeball X"
+		},
+		{
+			"Id": "ParamEyeBallY",
+			"GroupId": "ParamGroup2",
+			"Name": "Eyeball Y"
+		},
+		{
+			"Id": "ParamBrowLY",
+			"GroupId": "ParamGroup3",
+			"Name": "BrowL Y"
+		},
+		{
+			"Id": "ParamBrowRY",
+			"GroupId": "ParamGroup3",
+			"Name": "BrowR Y"
+		},
+		{
+			"Id": "ParamBrowLX",
+			"GroupId": "ParamGroup3",
+			"Name": "BrowL X"
+		},
+		{
+			"Id": "ParamBrowRX",
+			"GroupId": "ParamGroup3",
+			"Name": "BrowR X"
+		},
+		{
+			"Id": "ParamBrowLAngle",
+			"GroupId": "ParamGroup3",
+			"Name": "BrowL Angle"
+		},
+		{
+			"Id": "ParamBrowRAngle",
+			"GroupId": "ParamGroup3",
+			"Name": "BrowR Angle"
+		},
+		{
+			"Id": "ParamBrowLForm",
+			"GroupId": "ParamGroup3",
+			"Name": "BrowL Form"
+		},
+		{
+			"Id": "ParamBrowRForm",
+			"GroupId": "ParamGroup3",
+			"Name": "BrowR Form"
+		},
+		{
+			"Id": "ParamMouthForm",
+			"GroupId": "ParamGroup4",
+			"Name": "Mouth Form"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "ParamGroup4",
+			"Name": "Mouth Open"
+		},
+		{
+			"Id": "ParamCheek",
+			"GroupId": "ParamGroup4",
+			"Name": "Cheek"
+		},
+		{
+			"Id": "ParamTongueTrack",
+			"GroupId": "ParamGroup4",
+			"Name": "Tongue track"
+		},
+		{
+			"Id": "ParamBodyAngleX",
+			"GroupId": "ParamGroup5",
+			"Name": "Body X"
+		},
+		{
+			"Id": "ParamBodyAngleY",
+			"GroupId": "ParamGroup5",
+			"Name": "Body Y"
+		},
+		{
+			"Id": "ParamBodyAngleZ",
+			"GroupId": "ParamGroup5",
+			"Name": "Body Z"
+		},
+		{
+			"Id": "ParamBreath",
+			"GroupId": "ParamGroup5",
+			"Name": "Breathing"
+		},
+		{
+			"Id": "ParamHair1",
+			"GroupId": "ParamGroup7",
+			"Name": "hair 1"
+		},
+		{
+			"Id": "ParamHair2",
+			"GroupId": "ParamGroup7",
+			"Name": "Hair 2"
+		},
+		{
+			"Id": "ParamHair3",
+			"GroupId": "ParamGroup7",
+			"Name": "Hair 3"
+		},
+		{
+			"Id": "ParamHair4",
+			"GroupId": "ParamGroup7",
+			"Name": "Hair 4"
+		},
+		{
+			"Id": "ParamHair5",
+			"GroupId": "ParamGroup7",
+			"Name": "Hair 5"
+		},
+		{
+			"Id": "Param",
+			"GroupId": "ParamGroup7",
+			"Name": "green wigg"
+		},
+		{
+			"Id": "Paramgreenwiggvert",
+			"GroupId": "ParamGroup7",
+			"Name": "green wigg vert"
+		},
+		{
+			"Id": "Parambluewigg",
+			"GroupId": "ParamGroup7",
+			"Name": "blue wigg"
+		},
+		{
+			"Id": "Parambluewiggvert",
+			"GroupId": "ParamGroup7",
+			"Name": "blue wigg vert"
+		},
+		{
+			"Id": "Paramcollar",
+			"GroupId": "ParamGroup7",
+			"Name": "collar"
+		},
+		{
+			"Id": "ParamBlueslime1",
+			"GroupId": "ParamGroup7",
+			"Name": "Blue slime 1"
+		},
+		{
+			"Id": "ParamBlueslime2",
+			"GroupId": "ParamGroup7",
+			"Name": "Blueslime2"
+		},
+		{
+			"Id": "ParamBlueslime3",
+			"GroupId": "ParamGroup7",
+			"Name": "Blueslime3"
+		},
+		{
+			"Id": "ParamBlueslime4",
+			"GroupId": "ParamGroup7",
+			"Name": "Blueslime4"
+		},
+		{
+			"Id": "ParamQuestionMove",
+			"GroupId": "ParamGroup7",
+			"Name": "? Move"
+		},
+		{
+			"Id": "ParamTongueMove",
+			"GroupId": "ParamGroup7",
+			"Name": "Tongue Move"
+		},
+		{
+			"Id": "Paramgoopdrop",
+			"GroupId": "ParamGroup8",
+			"Name": "goop drop"
+		},
+		{
+			"Id": "Paramhidegoop1",
+			"GroupId": "ParamGroup8",
+			"Name": "hide goopi1"
+		},
+		{
+			"Id": "Paramgoopdrop2",
+			"GroupId": "ParamGroup8",
+			"Name": "goop drop 2"
+		},
+		{
+			"Id": "Paramhidegoop2",
+			"GroupId": "ParamGroup8",
+			"Name": "hide goopi 2"
+		},
+		{
+			"Id": "ParamQuestionmarkHide",
+			"GroupId": "ParamGroup8",
+			"Name": "???"
+		},
+		{
+			"Id": "ParamHideEyes",
+			"GroupId": "ParamGroup8",
+			"Name": "Hide Eyes"
+		},
+		{
+			"Id": "ParamHideEyebrows",
+			"GroupId": "ParamGroup8",
+			"Name": "Hide Eyebrows"
+		},
+		{
+			"Id": "ParamSwirls",
+			"GroupId": "ParamGroup8",
+			"Name": "Swirls"
+		},
+		{
+			"Id": "ParamPog",
+			"GroupId": "ParamGroup8",
+			"Name": "Pog"
+		},
+		{
+			"Id": "ParamxD",
+			"GroupId": "ParamGroup8",
+			"Name": "XD"
+		},
+		{
+			"Id": "ParamBlush",
+			"GroupId": "ParamGroup8",
+			"Name": "Blush"
+		},
+		{
+			"Id": "ParamAngy",
+			"GroupId": "ParamGroup8",
+			"Name": "Angy"
+		}
+	],
+	"ParameterGroups": [
+		{
+			"Id": "ParamGroup",
+			"GroupId": "",
+			"Name": "Head"
+		},
+		{
+			"Id": "ParamGroup2",
+			"GroupId": "",
+			"Name": "Eye"
+		},
+		{
+			"Id": "ParamGroup3",
+			"GroupId": "",
+			"Name": "Brow"
+		},
+		{
+			"Id": "ParamGroup4",
+			"GroupId": "",
+			"Name": "Mouth"
+		},
+		{
+			"Id": "ParamGroup5",
+			"GroupId": "",
+			"Name": "Body"
+		},
+		{
+			"Id": "ParamGroup6",
+			"GroupId": "",
+			"Name": "Hair"
+		},
+		{
+			"Id": "ParamGroup7",
+			"GroupId": "",
+			"Name": "Physics"
+		},
+		{
+			"Id": "ParamGroup8",
+			"GroupId": "",
+			"Name": "emoes"
+		}
+	],
+	"Parts": [
+		{
+			"Id": "Part6",
+			"Name": "kwimby_expressiions.psd"
+		},
+		{
+			"Id": "Part3",
+			"Name": "krimbo shine.psd"
+		},
+		{
+			"Id": "yyeet",
+			"Name": "yyeet"
+		},
+		{
+			"Id": "Angry",
+			"Name": "Angry"
+		},
+		{
+			"Id": "Part4",
+			"Name": "Tsundere Blush"
+		},
+		{
+			"Id": "Shine",
+			"Name": "Shine"
+		},
+		{
+			"Id": "Part",
+			"Name": "Hair Front"
+		},
+		{
+			"Id": "Mouth",
+			"Name": "Mouth"
+		},
+		{
+			"Id": "body",
+			"Name": "body"
+		},
+		{
+			"Id": "Part5",
+			"Name": "???"
+		},
+		{
+			"Id": "Part2",
+			"Name": "Hair back"
+		}
+	]
+}
