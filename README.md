@@ -43,7 +43,7 @@ const live2d_settings = {
     'modelUrl': 'model',                        // URL of a directory which consists of all model folder. NO slash in the end
     'tipsMessage': 'waifu-tips.json',           // message tips file. Can leave blank
     // model
-    'modelName': 'paimon',                      // default model name when first visit website
+    'modelName': 'Chibi 2d Fuu',                      // default model name when first visit website
     'modelStorage': true,                       // save model name in broswer
     'modelRandMode': false,                     // random switching model
     'preLoadMotion': false,                     // weather preload motion file. ONLY valid for model3 file,
@@ -77,9 +77,9 @@ const live2d_settings = {
     'debugMousemove': false,                    // log cursor postion to console, valid if debug is true
     'logMessageToConsole': true,                // log message tips to console
     'l2dVersion': '2.0.0',                      // script version
-    'homePageUrl': 'https://demo.bronya.moe/',  // homepage, could be URL or 'auto'
+    'homePageUrl': 'auto',  // homepage, could be URL or 'auto'
     'aboutPageUrl': 'https://github.com/Konata09/Live2dOnWeb/', // about page
-    'screenshotCaptureName': 'bronyaMoe.png',   // filename of screenshot, eg, 'live2d.png'
+    'screenshotCaptureName': 'live2d.png',   // filename of screenshot, eg, 'live2d.png'
 }
 ```
 
