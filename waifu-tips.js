@@ -22,7 +22,7 @@ const live2d_settings = {
     'modelUrl': 'model',                        // 存放模型的文件夹路径，末尾不需要斜杠
     'tipsMessage': 'waifu-tips.json',           // 看板娘提示消息文件的路径，可以留空不加载
     // 模型设置
-    'modelName': 'paimon',                      // 默认加载的模型名称，仅在无本地记录的情况下有效
+    'modelName': 'Chibi 2d Fuu',                      // 默认加载的模型名称，仅在无本地记录的情况下有效
     'modelStorage': true,                       // 记忆模型，下次打开页面会加载上次选择的模型
     'modelRandMode': false,                     // 随机切换模型
     'preLoadMotion': true,                      // 是否预载动作数据，只对 model3 模型有效，不预载可以提高 model3 模型的加载速度，但可能导致首次触发动作时卡顿
@@ -53,9 +53,9 @@ const live2d_settings = {
     'debugMousemove': false,                    // 在控制台打印指针移动坐标，仅在 debug 为 true 时可用
     'logMessageToConsole': true,                // 在控制台打印看板娘提示消息
     'l2dVersion': '2.0.0',                      // 当前版本
-    'homePageUrl': 'https://demo.bronya.moe/',  // 主页地址，可选 'auto'(自动), '{URL 网址}'
+    'homePageUrl': 'auto',  // 主页地址，可选 'auto'(自动), '{URL 网址}'
     'aboutPageUrl': 'https://github.com/Konata09/Live2dOnWeb/', // 关于页地址, '{URL 网址}'
-    'screenshotCaptureName': 'bronyaMoe.png',   // 看板娘截图文件名，例如 'live2d.png'
+    'screenshotCaptureName': 'live2d.png',   // 看板娘截图文件名，例如 'live2d.png'
 }
 // 模型列表
 const live2d_models = [
